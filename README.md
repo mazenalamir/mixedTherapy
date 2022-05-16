@@ -12,5 +12,4 @@ In this paper, a methodology is proposed that enables to analyze the sensitivity
 
 - `mixed_therapy.py` the python module that contains the main classes and methods 
 - `learning_based_analysis_and_design_of_mixed_therapy_of_cancer.ipynb`the jupyter notebook that produces the results using the previous module. 
-- `R_x_x_uniform.pkl`a set of learning data with different levels of uncertainties 
 
